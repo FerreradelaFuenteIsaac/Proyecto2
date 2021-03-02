@@ -1,6 +1,5 @@
 /*
 Consultas sobre las colecciones de la NBA
-Orden de menor a mayor complejidad
 */
 
 /*
